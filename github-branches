@@ -1,0 +1,7 @@
+input: git branch -vv
+
+output: $ git branch -vv
+
+  bug-fix-revert a1b2c3d Revert typo changes
+  bug-fix-typo  e4f5g6h Fix typo in README
+* main            i7j8k9l [origin/main] Merge branch 'bug-fix-typo'
